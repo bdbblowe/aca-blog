@@ -9,7 +9,5 @@ categories: coding
 In addition, we also 
 
 + went over Lesson 5 - Checkpoint 1 assignment
-+ 
 + reviewed Lesson 3 from last week and addressed questions regarding its homework to clear any confusion
-+ 
 + continued writing entries in our Jekyll blog for our homework
